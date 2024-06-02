@@ -1,6 +1,6 @@
 # Goli Hatami🌻
 
-**`Front-end junior learner/developer **`
+` Front-end junior learner/developer `
 
 I'm a 20-year-old student interested in logic, books, volleyball, and food!!!
 I'm keen on creating useful content to build an influential approach to programming and the first target is mySelf.

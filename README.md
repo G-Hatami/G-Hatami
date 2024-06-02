@@ -7,16 +7,17 @@ I'm keen on creating useful content to build an influential approach to programm
 Now I'm trying to work on it and making various improvements, By the way, I'm currently learning JS and Vue3 so any kind of support will help a lot!!!
 So as the Bro said, "Seat back, relax, and enjoy the show!!!"
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Hatami)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="center">
   <a href="mailto:golihatami1383@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" styly="width=20px">
   </a>  
   <a href="https://www.linkedin.com/in/goli-hatami-230645308" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white">
   </a> 
-  <a href="https://github.com/G-Hatami?tab=repositories&sort=stargazers">
-    <img alt="star" src="https://img.shields.io/badge/Star-yellow?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA... (rest of base64 data)">
-  </a>
+<!--  <a href="https://github.com/G-Hatami?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/G-hatami?color=55960c&style=for-the-badge&labelColor=488207&logo=star&width=10px&height=10px"/></a> -->
 </h3>
 
 

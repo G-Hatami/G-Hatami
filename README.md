@@ -1,7 +1,18 @@
-- 👋 Hi, I’m @G-Hatami
-- 👀 I’m interested in front-end, logical problems and foods!
-- 🌱 I’m currently learning js and vue3. (ِِDiscovering a new word hooom??)
-- 💞️ I’m looking to collaborate on a real project!
+# Goli Hatami🌻
+
+**`Front-end junior learner/developer **`
+
+I'm a 20-year-old student interested in logic, books, volleyball, and food!!!
+I'm keen on creating useful content to build an influential approach to programming and the first target is mySelf.
+Now I'm trying to work on it and making various improvements, By the way, I'm currently learning JS and Vue3 so any kind of support will help a lot!!!
+So as the Bro said, "Seat back, relax, and enjoy the show!!!"
+
+
+
+
+
+
+
 
 
 
